@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmbt.a CMakeFiles/mbt.dir/camera.cc.o CMakeFiles/mbt.dir/histogram.cc.o CMakeFiles/mbt.dir/m_func.cc.o CMakeFiles/mbt.dir/model.cc.o CMakeFiles/mbt.dir/object3d.cc.o CMakeFiles/mbt.dir/search_line.cc.o CMakeFiles/mbt.dir/signed_distance_transform2d.cc.o CMakeFiles/mbt.dir/tclc_histograms.cc.o CMakeFiles/mbt.dir/template_view.cc.o CMakeFiles/mbt.dir/tinyply.cpp.o CMakeFiles/mbt.dir/tracker.cc.o CMakeFiles/mbt.dir/tracker_sle.cc.o CMakeFiles/mbt.dir/transformations.cc.o CMakeFiles/mbt.dir/view.cc.o CMakeFiles/mbt.dir/viewer.cc.o
+/usr/bin/ranlib libmbt.a

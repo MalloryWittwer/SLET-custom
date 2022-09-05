@@ -1,0 +1,4 @@
+./data/out/rbot/sle/ape_regular.yml 100.0 0.0
+./data/out/rbot/sle/ape_regular.yml 8.6 0.0
+./data/out/rbot/sle/ape_regular.yml 91.6 0.0
+./data/out/rbot/sle/ape_regular.yml 91.6 0.0

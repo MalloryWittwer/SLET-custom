@@ -1,0 +1,11 @@
+/home/mallory/code/SLET/CMakeFiles/edit_cache.dir
+/home/mallory/code/SLET/CMakeFiles/rebuild_cache.dir
+/home/mallory/code/SLET/src/base/CMakeFiles/base.dir
+/home/mallory/code/SLET/src/base/CMakeFiles/edit_cache.dir
+/home/mallory/code/SLET/src/base/CMakeFiles/rebuild_cache.dir
+/home/mallory/code/SLET/src/mbt/CMakeFiles/mbt.dir
+/home/mallory/code/SLET/src/mbt/CMakeFiles/edit_cache.dir
+/home/mallory/code/SLET/src/mbt/CMakeFiles/rebuild_cache.dir
+/home/mallory/code/SLET/src/app/CMakeFiles/run_on_video.dir
+/home/mallory/code/SLET/src/app/CMakeFiles/edit_cache.dir
+/home/mallory/code/SLET/src/app/CMakeFiles/rebuild_cache.dir

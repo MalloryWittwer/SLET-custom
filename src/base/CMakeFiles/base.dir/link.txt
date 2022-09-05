@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a CMakeFiles/base.dir/global_param.cc.o CMakeFiles/base.dir/util.cc.o
+/usr/bin/ranlib libbase.a
